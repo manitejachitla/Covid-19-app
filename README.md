@@ -1,1 +1,1 @@
-# Covid-19-app
+Covid-19 tracker built using React-native framework
